@@ -1,0 +1,5 @@
+numpy>=1.21
+scipy>=1.9        # binomtest, spearmanr(...).statistic
+ripser>=0.6
+pot>=0.9
+matplotlib>=3.4   # not required with --no-figures
